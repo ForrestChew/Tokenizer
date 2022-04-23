@@ -1,4 +1,4 @@
-# ERC-721 + ERC-20 Token Minter Gui <br>
+# Tokenizer <br>
 This project is a Chainlink, 2021 Fall Hackathon winner. https://devpost.com/software/erc-20-erc-721-token-minter-gui <br>
 <br>
 <br>
