@@ -79,8 +79,6 @@ Your wallet gains from 1 and 15 ERC-20 Tokens from the contract you previously d
 Blockchains can take time. If you are not seeing your NFT or tokens immedietly, check back in several mintutes.
 ## Congragulations. You've done it!
 
-### Project workflow <br>
-Steps are numbered. Steps that have the same number are operations that are executed by the same trigger.
-![](ReadmePhotos/flowchart.png "Project workflow")
+
 
 
